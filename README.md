@@ -1,2 +1,2 @@
 # parked
-Static website used for parked domains
+Static webpage used for parked domains
